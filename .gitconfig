@@ -1,0 +1,10 @@
+[user]
+	name = @JNzaari1!
+	email = @JNzaari1!
+[core]
+	autocrlf = true
+	editor = atom --wait
+[http]
+	proxy = proxy-url
+[https]
+	proxy = proxy-url
